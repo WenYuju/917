@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("�ťɦp\n");
+printf("溫玉如\n");
 }
